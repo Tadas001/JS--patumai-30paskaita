@@ -1,1 +1,1 @@
-# JS--patumai-30paskaita
+# JS--įpatumai-30paskaita

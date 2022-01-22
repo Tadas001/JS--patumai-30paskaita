@@ -1,1 +1,5 @@
-js
+function sayHi() {
+    alert('labas');
+}
+
+sayHi();
